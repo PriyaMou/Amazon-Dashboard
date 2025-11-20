@@ -8,15 +8,15 @@ The project includes three main report pages and a product tooltip for enhanced 
 🚀 **Dashboard Overview**:
 **This Power BI dashboard helps answer key business questions, such as**:
 
-Which products are performing well on Amazon?
+1. Which products are performing well on Amazon?
 
-How much revenue and units have been sold during the selected period?
+2. How much revenue and units have been sold during the selected period?
 
-Which cities and states contribute the most to sales?
+3. Which cities and states contribute the most to sales?
 
-What is the sales performance?
+4. What is the sales performance?
 
-How do product sales trends vary across months?
+5. How do product sales trends vary across months?
 
 🛠️ **Tools & Technologies**:
 
